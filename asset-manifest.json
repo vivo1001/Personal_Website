@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vivo1001/Personal_Website/static/css/main.747b6a40.css",
+    "main.js": "/vivo1001/Personal_Website/static/js/main.51464d6f.js",
+    "static/media/profile_pic.jpg": "/vivo1001/Personal_Website/static/media/profile_pic.b8dd024b2b277eb3028c.jpg",
+    "static/media/graphene.jpg": "/vivo1001/Personal_Website/static/media/graphene.eb2e0f38af8c1e12dc1c.jpg",
+    "static/media/usp.jpg": "/vivo1001/Personal_Website/static/media/usp.161f4dda67216767cc9b.jpg",
+    "static/media/poster.jpg": "/vivo1001/Personal_Website/static/media/poster.0a2eabb2f905f658ceca.jpg",
+    "static/media/CO2_laser.jpg": "/vivo1001/Personal_Website/static/media/CO2_laser.596d64be65d8798e8aa9.jpg",
+    "static/media/opv.jpg": "/vivo1001/Personal_Website/static/media/opv.41e664b5ade0c7ae3ee4.jpg",
+    "index.html": "/vivo1001/Personal_Website/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.747b6a40.css",
+    "static/js/main.51464d6f.js"
+  ]
+}
